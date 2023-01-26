@@ -6,4 +6,4 @@
         document.getElementById("demo").src="pic_bulboff.gif"
     }
 
-	"hi"
+	"Nice men"
